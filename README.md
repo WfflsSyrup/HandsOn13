@@ -96,4 +96,3 @@ java app.Application
 ## 📄 Submission Evidence
 - `Week_13_Test_Sheet.docx`: Completed 6-row test sheet table.
 - `Console_Transcript.txt`: Verbatim console execution transcript covering test cases EH01–EH06.
-- `Exception_Handling_Explanation.txt`: Detailed explanation of detection points across layers.
