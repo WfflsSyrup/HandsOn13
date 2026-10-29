@@ -15,12 +15,8 @@ The **Exception Safe Record Entry System** is a robust Java console application 
 
 ```
 ExceptionSafeRecords/
-├── .gitignore
 ├── README.md
 ├── build.xml
-├── Week_13_Test_Sheet.docx
-├── Console_Transcript.txt
-├── Exception_Handling_Explanation.txt
 ├── nbproject/
 │   ├── project.properties
 │   └── project.xml
